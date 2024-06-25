@@ -56,6 +56,15 @@
         <a href="https://www.linkedin.com/in/haticeeakgüll/" target="_blank" ><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
         <a href="https://www.instagram.com/h.akgl_/?next=%2Fabilateq%2F"_blank"><img src="bootcampFiles/general/social/instagram.png" width="20" height="20" /></a>
       </td>
+         <tr>
+      <td><img src="bootcampFiles/general/squarepics/hatice.png" width="50" height="50" /></td>
+      <td>Mustafa</td>
+      <td>Developer</td>
+      <td>
+        <a href="x" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
+        <a href="x" target="_blank" ><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
+        <a href="x"><img src="bootcampFiles/general/social/instagram.png" width="20" height="20" /></a>
+      </td>
     </tr>
     <!--
     <tr>
