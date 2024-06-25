@@ -47,6 +47,7 @@
         <a href="https://www.linkedin.com/" target="_blank"><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
         <a href="https://www.instagram.com/" target="_blank"><img src="bootcampFiles/general/social/instagram.png" width="20" height="20" /></a>
       </td>
+      <tr>
       <td>Hatice Akgül</td>
       <td>Developer</td>
       <td>
