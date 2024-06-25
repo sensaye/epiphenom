@@ -47,6 +47,13 @@
         <a href="https://www.linkedin.com/" target="_blank"><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
         <a href="https://www.instagram.com/" target="_blank"><img src="bootcampFiles/general/social/instagram.png" width="20" height="20" /></a>
       </td>
+      <td>Hatice Akgül</td>
+      <td>Developer</td>
+      <td>
+        <a href="https://github.com/haticeeakgull" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/haticeeakgüll/" target="_blank"><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
+        <a href="https://www.instagram.com/h.akgl_/" target="_blank"><img src="bootcampFiles/general/social/instagram.png" width="20" height="20" /></a>
+      </td>
     </tr>
     <!--
     <tr>
