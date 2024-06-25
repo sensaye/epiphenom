@@ -49,12 +49,12 @@
       </td>
        <tr>
       <td><img src="bootcampFiles/general/squarepics/bilal.png" width="50" height="50" /></td>
-      <td>Abdullah Bilal Tekeoğlu</td>
-      <td>Scrum Master</td>
+      <td>Hatice Akgüç</td>
+      <td>Developer</td>
       <td>
-        <a href="https://github.com/sensaye" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
-        <a href="https://www.linkedin.com/in/abdullah-bilal-tekeo%C4%9Flu-964128199/" target="_blank" ><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
-        <a href="https://www.instagram.com/abilateq/" target="_blank"><img src="bootcampFiles/general/social/instagram.png" width="20" height="20" /></a>
+        <a href="https://github.com/haticeeakgull" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/haticeeakgüll/" target="_blank" ><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
+        <a href="https://www.instagram.com/h.akgl_/?next=%2Fabilateq%2F"_blank"><img src="bootcampFiles/general/social/instagram.png" width="20" height="20" /></a>
       </td>
     </tr>
     <!--
