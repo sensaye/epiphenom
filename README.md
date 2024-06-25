@@ -48,8 +48,8 @@
         <a href="https://www.instagram.com/" target="_blank"><img src="bootcampFiles/general/social/instagram.png" width="20" height="20" /></a>
       </td>
        <tr>
-      <td><img src="bootcampFiles/general/squarepics/bilal.png" width="50" height="50" /></td>
-      <td>Hatice Akgüç</td>
+      <td><img src="bootcampFiles/general/squarepics/hatice.png" width="50" height="50" /></td>
+      <td>Hatice Akgül</td>
       <td>Developer</td>
       <td>
         <a href="https://github.com/haticeeakgull" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
