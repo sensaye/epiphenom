@@ -3,6 +3,9 @@
 
   ![zaten](bootcampFiles/general/headers/epiphenom2.png)
   
+   # **Takım İsmi**
+   ### **`U-70`**
+
   # **Oyun İsmi**
 
   ### **`epiphenom`**
@@ -219,10 +222,10 @@
     - It was decided to perform `identity verification` following the login system.
 
     - It has been decided to use `Hive` as the local database.
-  - **Expected point completion within Sprint**: 200 points
+  - **Tahmin edilen tamamlanacak puan**: 80 points
   - **Point Completion Logic**: `(205 points completed)` The first sprint has a target of 200 points, the second sprint 100 points, and the third sprint 200 points. A lower point target has been set for the second sprint since there is a national holiday in Turkey during this period and all team members are residing in Turkey.
   - **Daily Scrum**: See file
-  - **Product Backlog URL:** Click for Backlog (Trello)
+  - **Product Backlog URL -> Grup Yetmiş | Trello
   - **Sprint Review:**
     - Arda and Burak carried out a coordinated effort for the backend and frontend. We have agreed within the team to continue this way in the next sprint.
 
