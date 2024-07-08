@@ -104,21 +104,25 @@
     <summary><h2>Oyun Özellikleri</h2></summary>
   <ul>
   <li>3D</li>
-  <li>Multiplayer?</li>
+  <li>CO-OP</li>
   <li>Gameanalytics</li>
   </ul>
     
   <h3>Oyun Mekanikleri:</h3>
     <p>Epiphenom ışık kaynaklarını kullanarak kendisine platform oluşturabilir.</p>
-
-  <!--<h2>Vehicle Rental:</h2>
-    <p>zaten enables users to rent vehicles. Vehicle owners can rent out their unused vehicles to other users via the zaten platform, earning additional income. Renters can find and rent a suitable vehicle to meet their needs.</p>-->
+    <p>Epi(ışık) karakter bölünerek farklı açılardan ışık oluşturur. Böylece nesnelerden oluşacak gölgelerle enom(gölge) için platform oluşturabilir.</p>
+    <p>Epi(ışık) gölge alanlarda kalamaz, kalırsa hasar alır ve zayıflar. Aynı şekilde enom(gölge) aydınlık alanlarda varolamaz.</p>
+    <p>Epi(ışık) çevredeki ışık kaynaklarını aşırı yükleyerek bünyesine katabilir ve güçlenebilir. Aşırı yüklenme halinde ulti özelliği aktif olur(kararlaştırılmadı).</p>
+    <p>Enom(gölge) etraf ne kadar karanlıksa o kadar güçlüdür. Ortam çok karanlık olduğunda zifir özelliği aktif olur. Böylece karanığı somutlaştırarak yeni nesneler oluşturabilir.</p>
     
   </details>
 
   <details>
     <summary><h2>Hedef Kitle</h2></summary>
     <p>Her yaştan oyuncu kitlesi.</p>
+    <p>Platform oyuncuları.</p>
+    <p>Çiftler.</p>
+    <p>İki kişilik oyun grupları.</p>
   </details>
 
   --- 
