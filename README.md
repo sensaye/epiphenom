@@ -145,10 +145,15 @@
 
   <details>
     <summary><h3>Sprint 1 Screenshots</h3></summary>
+    
 ![Ekran görüntüsü 2024-07-08 114009](https://github.com/sensaye/epiphenom/assets/103825788/3a07a696-64df-41eb-8a5a-8cc8202901c3)
+
 ![Ekran görüntüsü 2024-07-08 113946](https://github.com/sensaye/epiphenom/assets/103825788/a544cce2-eaae-4f6e-977f-a512254f104f)
+
 ![Ekran görüntüsü 2024-07-08 113916](https://github.com/sensaye/epiphenom/assets/103825788/fa615df1-e053-4d02-bf12-db1fee819140)
+
 ![Ekran görüntüsü 2024-07-08 113909](https://github.com/sensaye/epiphenom/assets/103825788/a1e06ec8-4e9d-416d-843b-f48c8855604e)
+
 ![Ekran görüntüsü 2024-07-08 113848](https://github.com/sensaye/epiphenom/assets/103825788/9779a50c-8778-4d70-a634-d3b3e3cabfef)
 
 
