@@ -109,11 +109,14 @@
   </ul>
     
   <h3>Oyun Mekanikleri:</h3>
-    <p>Epiphenom ışık kaynaklarını kullanarak kendisine platform oluşturabilir.</p>
-    <p>Epi(ışık) karakter bölünerek farklı açılardan ışık oluşturur. Böylece nesnelerden oluşacak gölgelerle enom(gölge) için platform oluşturabilir.</p>
-    <p>Epi(ışık) gölge alanlarda kalamaz, kalırsa hasar alır ve zayıflar. Aynı şekilde enom(gölge) aydınlık alanlarda varolamaz.</p>
-    <p>Epi(ışık) çevredeki ışık kaynaklarını aşırı yükleyerek bünyesine katabilir ve güçlenebilir. Aşırı yüklenme halinde ulti özelliği aktif olur(kararlaştırılmadı).</p>
-    <p>Enom(gölge) etraf ne kadar karanlıksa o kadar güçlüdür. Ortam çok karanlık olduğunda zifir özelliği aktif olur. Böylece karanığı somutlaştırarak yeni nesneler oluşturabilir.</p>
+  <ol>
+    <li>Epiphenom ışık kaynaklarını kullanarak kendisine platform oluşturabilir.</li>
+    <li>Epi(ışık) karakter bölünerek farklı açılardan ışık oluşturur. Böylece nesnelerden oluşacak gölgelerle enom(gölge) için platform oluşturabilir.</li>
+    <li>Epi(ışık) gölge alanlarda kalamaz, kalırsa hasar alır ve zayıflar. Aynı şekilde enom(gölge) aydınlık alanlarda varolamaz.</li>
+    <li>Epi(ışık) çevredeki ışık kaynaklarını aşırı yükleyerek bünyesine katabilir ve güçlenebilir. Aşırı yüklenme halinde ulti özelliği aktif olur(kararlaştırılmadı).</li>
+    <li>Enom(gölge) etraf ne kadar karanlıksa o kadar güçlüdür. Ortam çok karanlık olduğunda zifir özelliği aktif olur. Böylece karanlığı somutlaştırarak yeni nesneler oluşturabilir.</li>
+  </ol>
+    
     
   </details>
 
