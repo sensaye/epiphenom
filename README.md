@@ -212,28 +212,22 @@
 
 
   - **Sprint Notları**:
-    Alınan kararlar, sprint mantığı, scrum, backlog, değerlendirme
-<!--
-    - It has been decided to use `Trello` for project management.
+    
+    - Proje yönetimi için `Trello` kullanılacak.
 
-    - It has been decided to use `Figma` for UI designs.
+    - İletişim `Discord` aracılığıyla sağlanacak.
 
-    - It has been decided to use `Riverpod` for state management.
+    - Oyun `URP` modülünde geliştirilecek.
 
-    - The `MVVM` structure has been set up and it will be proceeded on this basis.
+    - Grafik stili `Stylized Realistic` olacak.
 
-    - It has been decided to use `Firebase` for the backend, and the `GetX` system for the page routing system.
+    - Oyun `CO-OP` olacak.
 
-    - It was decided to use `email login` for the login system.
-
-    - It was decided to perform `identity verification` following the login system.
-
-    - It has been decided to use `Hive` as the local database.
   - **Tahmin edilen tamamlanacak puan**: 80 points
-  - **Point Completion Logic**: `(205 points completed)` The first sprint has a target of 200 points, the second sprint 100 points, and the third sprint 200 points. A lower point target has been set for the second sprint since there is a national holiday in Turkey during this period and all team members are residing in Turkey.
+  - **Puanlama mantığı**: `(x puan tamamlanacak.)` İlk sprint için belirlenmiş puan 80'dir.
   - **Daily Scrum**: See file
   - **Product Backlog URL -> Grup Yetmiş | Trello
-  - **Sprint Review:**
+  - **Sprint Değerlendirmesi:**
     - Arda and Burak carried out a coordinated effort for the backend and frontend. We have agreed within the team to continue this way in the next sprint.
 
     - We struggled to decide on an application name for a while. We transitioned from 'zaten' to 'zaten' and took another step towards branding by purchasing the 'zaten.app' domain for the name.
@@ -244,7 +238,7 @@
 
     - Overall, we believe we had a good sprint process. We experienced a sprint process close to what we planned.
 
-  - **Sprint Review Participants:** `Burak Taha Cevheroğlu`, `Arda Demirel`, `Dila Hazal Bilgin`, `Merve Ağaçayak`, `Onur Konuk`
+  - **Sprint Değerlendirme Katılımcıları:** `Burak Taha Cevheroğlu`, `Arda Demirel`, `Dila Hazal Bilgin`, `Merve Ağaçayak`, `Onur Konuk`
   - **Sprint Retrospective:**
     - In the second sprint, it was decided in the team meeting that only Arda and Burak would write code for mobile.
 
@@ -283,7 +277,7 @@
 
   </details>
 
-  ---
+  <!---
 
   <details>
     <summary><h1>Sprint 2</h1></summary>
