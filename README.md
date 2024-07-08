@@ -226,7 +226,7 @@
   - **Tahmin edilen tamamlanacak puan**: 80 points
   - **Puanlama mantığı**: `(x puan tamamlanacak.)` İlk sprint için belirlenmiş puan 80'dir.
   - **Daily Scrum**: See file
-  - **Product Backlog URL -> Grup Yetmiş | Trello
+  - **[Product Backlog URL -> Grup Yetmiş | Trello](https://trello.com/b/3v0my4Jf/grup-yetmi%C5%9F)
   - **Sprint Değerlendirmesi:**
     - Arda and Burak carried out a coordinated effort for the backend and frontend. We have agreed within the team to continue this way in the next sprint.
 
