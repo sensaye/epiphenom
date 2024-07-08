@@ -426,7 +426,7 @@
   </details>
 
 
-  - **Sprint Notes**:
+  
     - The internationalization system has been updated. The number of supported languages has been increased from 4 to 7.
     - We have enabled guest login to the application and integrated it into our system.
     - With bug fixing and testing stages, we have solved all the problems that may arise in our application and completed the process.
