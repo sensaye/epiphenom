@@ -266,8 +266,11 @@
   - **Sprint Değerlendirme Katılımcıları:** `Hatice AKGÜL`, `Abdullah Bilal Tekeoğlu`, `Berkan Karademir `, `Muhammed Mustafa Temel `, `Deniz Kaya`
   - **Sprint Retrospective:**
   -Map tasarımı ve karakterlerin tasarımının tamamalanması üzerine yoğunlaşma kararı alındı.
+
   -Tasarım konusunda Bilal ile birlikte çalışacak bir tasarımcı belirlendi.
+  
   -Karakter hareket ve özellik değiştirme mekanikleri tamamlandı.
+  
   -Takım üyelerinin gelecek sprintlerde daha aktif olması kararı alındı.
 
 
