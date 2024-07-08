@@ -248,43 +248,21 @@
 
 
 
-  - **[Product Backlog URL -> Grup Yetmiş | Trello](https://trello.com/b/3v0my4Jf/grup-yetmi%C5%9F)
+  - **Product Backlog URL**
+    - [Product Backlog URL -> Grup Yetmiş | Trello](https://trello.com/b/3v0my4Jf/grup-yetmi%C5%9F)
+     
   - **Sprint Değerlendirmesi:**
-    - Arda and Burak carried out a coordinated effort for the backend and frontend. We have agreed within the team to continue this way in the next sprint.
-
-    - We struggled to decide on an application name for a while. We transitioned from 'zaten' to 'zaten' and took another step towards branding by purchasing the 'zaten.app' domain for the name.
-
-    - The two biggest problems we encountered in this sprint were difficulty in deciding on a color palette and not having completed the logo yet.
-
-    - We learned that the FloatingActionButton usage in the BottomNavigationBar and the notched feature of the navigation bar have been removed in Material 3, we overcame this issue by designing it ourselves.
-
-    - Overall, we believe we had a good sprint process. We experienced a sprint process close to what we planned.
+    -Oyunun ilk aşamada çift karakter ve tek oyunculu olmasına karar verildi.
+    -Multiplayer oyun tarzını diğer sprintlerde bir daha gözden geçirme kararı alındı.
+    -Oyunun dizayan stilinin "stylized realistic" olması kararlaştırıldı.
+    
 
   - **Sprint Değerlendirme Katılımcıları:** `Hatice AKGÜL`, `Abdullah Bilal Tekeoğlu`, `Berkan Karademir `, `Muhammed Mustafa Temel `, `Deniz Kaya`
   - **Sprint Retrospective:**
-    - In the second sprint, it was decided in the team meeting that only Arda and Burak would write code for mobile.
-
-    - In the second sprint, we decided to write our own API (for location information).
-
-    - We had to postpone the logo design to the second sprint. We will continue with the design.
-
-    - We will continue to develop the local database system (Hive).
-
-    - As Burak and Arda will continue more with software related tasks, much of the project management has been delegated to the remaining team members.
-
-    - In the second sprint, we will start writing a website for the zaten.app domain we bought for brand recognition. This task has been handed over to Onur.
-
-    - It was decided to establish a review system before the product goes live during the second sprint.
-
-    - For brand recognition and marketing purposes, it was decided to open an Instagram account during the second sprint.
-
-    - In addition to email authentication, it was decided to add the Google auth system in the second sprint.
-
-    - It was decided to add test AdMobs in the second sprint.
-
-    - We decided to start localization and the first languages will be English and Turkish.
-
-    - It was decided to add a user-to-user SDK with the Stream Chat SDK in the second sprint.
+   -Map tasarımı ve karakterlerin tasarımının tamamalanması üzerine yoğunlaşma kararı alındı.
+   -Tasarım konusunda Bilal ile birlikte çalışacak bir tasarımcı belirlendi.
+   -Karakter hareket ve özellik değiştirme mekanikleri tamamlandı.
+   -Takım üyelerinin gelecek sprintlerde daha aktif olması karaarı alındı.
 
 
   - **Other Notes**:
