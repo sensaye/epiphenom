@@ -179,7 +179,7 @@
     - Oyun `CO-OP` olacak.
 
   - **Tahmin edilen tamamlanacak puan**: 80 points
-  - **Puanlama mantığı**: `(x puan tamamlanacak.)` İlk sprint için belirlenmiş puan 80'dir.
+  - **Puanlama mantığı**: `(250 puan tamamlanacak.)` İlk sprint için belirlenmiş puan 80'dir.
   - **Daily Scrum Screenshots**: ![image](https://github.com/sensaye/epiphenom/assets/103825788/79fb307a-9a1e-4244-b059-b382b703ad2f)
   - ![image](https://github.com/sensaye/epiphenom/assets/103825788/464ade74-5e04-49e1-a74c-51c92c324c16)
   - ![image](https://github.com/sensaye/epiphenom/assets/103825788/416db891-157f-4a58-8b6c-7b85d1f1bbff)
