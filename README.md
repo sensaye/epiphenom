@@ -252,9 +252,12 @@
     - [Product Backlog URL -> Grup Yetmiş | Trello](https://trello.com/b/3v0my4Jf/grup-yetmi%C5%9F)
      
   - **Sprint Değerlendirmesi:**
-  -Oyunun ilk aşamada çift karakter ve tek oyunculu olmasına karar verildi.
-  -Multiplayer oyun tarzını diğer sprintlerde bir daha gözden geçirme kararı alındı.
-  -Oyunun dizayan stilinin "stylized realistic" olması kararlaştırıldı
+  - Oyunun ilk aşamada çift karakter ve tek oyunculu olmasına karar verildi.
+    
+  - Multiplayer oyun tarzını diğer sprintlerde bir daha gözden geçirme kararı alındı.
+    
+  - Oyunun dizayan stilinin "stylized realistic" olması kararlaştırıldı
+
    
     
 
