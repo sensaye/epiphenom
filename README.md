@@ -226,6 +226,22 @@
   - **Tahmin edilen tamamlanacak puan**: 80 points
   - **Puanlama mantığı**: `(x puan tamamlanacak.)` İlk sprint için belirlenmiş puan 80'dir.
   - **Daily Scrum Screenshots**: ![image](https://github.com/sensaye/epiphenom/assets/103825788/79fb307a-9a1e-4244-b059-b382b703ad2f)
+  - ![image](https://github.com/sensaye/epiphenom/assets/103825788/464ade74-5e04-49e1-a74c-51c92c324c16)
+  - ![image](https://github.com/sensaye/epiphenom/assets/103825788/416db891-157f-4a58-8b6c-7b85d1f1bbff)
+  -![image](https://github.com/sensaye/epiphenom/assets/103825788/a200f6af-f2ba-45bd-a752-3d3b66049d73)
+![image](https://github.com/sensaye/epiphenom/assets/103825788/33e68879-60ca-412a-b1cb-f29a452eef2e)
+![image](https://github.com/sensaye/epiphenom/assets/103825788/72b012ce-a53f-4747-bfae-7293f561b984)
+![image](https://github.com/sensaye/epiphenom/assets/103825788/ccf6f992-7cfe-4b07-9c7f-fb5915b8ad65)
+![image](https://github.com/sensaye/epiphenom/assets/103825788/8e86cbc8-2334-4d93-b952-a1affd1f5740)
+![image](https://github.com/sensaye/epiphenom/assets/103825788/0d2454d2-f55b-43be-8496-536871d6ed4f)
+
+
+
+
+
+
+
+
 
   - **[Product Backlog URL -> Grup Yetmiş | Trello](https://trello.com/b/3v0my4Jf/grup-yetmi%C5%9F)
   - **Sprint Değerlendirmesi:**
