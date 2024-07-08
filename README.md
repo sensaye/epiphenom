@@ -205,7 +205,8 @@
 
 
 
-    <img src="bootcampFiles/sprintOne/boardupdate/10.png" style="max-width: 100%; height: auto;">
+    <img src="![Ekran görüntüsü 2024-07-08 113848](https://github.com/sensaye/epiphenom/assets/103825788/a75701c0-e617-439e-abd5-2cd75e57093e)
+" style="max-width: 100%; height: auto;">
     <img src="bootcampFiles/sprintOne/boardupdate/11.png" style="max-width: 100%; height: auto;">
     <img src="bootcampFiles/sprintOne/boardupdate/12.png" style="max-width: 100%; height: auto;">
     <img src="bootcampFiles/sprintOne/boardupdate/13.png" style="max-width: 100%; height: auto;">
