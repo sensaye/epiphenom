@@ -236,3 +236,7 @@
  - **Tahmin edilen tamamlanacak puan**: 80 points
 - **Puanlama mantığı**: `(250 puan tamamlanacak.)` İlk sprint için belirlenmiş puan 80'dir.
 - **Daily Scrum Screenshots**:
+- **Product Backlog URL**
+- **Sprint Değerlendirmesi:**
+- **Sprint Değerlendirme Katılımcıları:** `Hatice AKGÜL`, `Abdullah Bilal Tekeoğlu`, `Berkan Karademir `, `Muhammed Mustafa Temel `, `Deniz Kaya`
+- **Sprint Retrospective:**
