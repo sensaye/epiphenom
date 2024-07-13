@@ -224,5 +224,15 @@
 
   - Takım üyelerinin gelecek sprintlerde daha aktif olması kararı alındı.
 
+ <details>
+    <summary><h1>Sprint 2</h1></summary>
+   
+<details>
+    <summary><h3>Sprint 2 - Sprint Board Update</h3></summary>
 
+ <details>
+    <summary><h3>Sprint 1 Screenshots</h3></summary>    
  
+ - **Tahmin edilen tamamlanacak puan**: 80 points
+- **Puanlama mantığı**: `(250 puan tamamlanacak.)` İlk sprint için belirlenmiş puan 80'dir.
+- **Daily Scrum Screenshots**:
