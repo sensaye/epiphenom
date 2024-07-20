@@ -247,6 +247,28 @@
 - ![Ekran görüntüsü 2024-07-20 133733](https://github.com/user-attachments/assets/f3c615d1-79db-47c1-921f-03ed600e48b0)
 - ![Ekran görüntüsü 2024-07-20 133751](https://github.com/user-attachments/assets/f53e5202-0972-4f9e-a784-2ae35581bd54)
 - ![Ekran görüntüsü 2024-07-20 133832](https://github.com/user-attachments/assets/95d80723-dc36-4fca-8dd8-6aa8e67d8f22)
+- ![Ekran görüntüsü 2024-07-20 133909](https://github.com/user-attachments/assets/950d5fbb-bfce-4059-bc26-61fc06896932)
+- ![Ekran görüntüsü 2024-07-20 133927](https://github.com/user-attachments/assets/1eb63448-5dfa-437b-b812-a060e4dd03b0)
+- ![Ekran görüntüsü 2024-07-20 133953](https://github.com/user-attachments/assets/cd3874ea-00a6-4e59-ae55-0de44915d0b3)
+- ![Ekran görüntüsü 2024-07-20 134022](https://github.com/user-attachments/assets/c194ad72-e5fe-417f-b628-927a1bb4bab7)
+- ![Ekran görüntüsü 2024-07-20 134041](https://github.com/user-attachments/assets/f2f5494f-b74b-434a-b527-9e3868442285)
+- ![Ekran görüntüsü 2024-07-20 134106](https://github.com/user-attachments/assets/faae597a-312a-4445-85c3-a6489a2e7e71)
+- ![Ekran görüntüsü 2024-07-20 133157](https://github.com/user-attachments/assets/29632cc3-452b-4413-a8b2-1c9d7d70fc46)
+- ![Ekran görüntüsü 2024-07-20 133222](https://github.com/user-attachments/assets/77f4c8e6-ffc6-43d2-a731-5cbccf554f27)
+- ![Ekran görüntüsü 2024-07-20 133249](https://github.com/user-attachments/assets/4ba560ed-3fce-4cf0-9fd1-f30dc1bb4e81)
+- ![Ekran görüntüsü 2024-07-20 133321](https://github.com/user-attachments/assets/19baf403-30a1-4016-888f-ea0f45a84f98)
+
+
+
+
+
+
+
+  
+
+
+
+
 
 
 
