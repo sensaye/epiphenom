@@ -240,6 +240,21 @@
  - **Tahmin edilen tamamlanacak puan**: 80 points
 - **Puanlama mantığı**: `(250 puan tamamlanacak.)` İkinci sprint için belirlenmiş puan 80'dir.
 - **Daily Scrum Screenshots**:
+- ![Ekran görüntüsü 2024-07-20 133751](https://github.com/user-attachments/assets/21192842-6025-4299-b31d-219a1039603d)
+- ![Ekran görüntüsü 2024-07-20 133751](https://github.com/user-attachments/assets/7bbf9b06-a36a-4af0-8767-9e4effb6fe8a)
+- ![Ekran görüntüsü 2024-07-20 133751](https://github.com/user-attachments/assets/ebb89b04-80b0-420f-98fd-a866a49fc892)
+- ![Ekran görüntüsü 2024-07-20 133751](https://github.com/user-attachments/assets/e85c7b6e-77fb-4404-94ae-23ad892f6487)
+- ![Ekran görüntüsü 2024-07-20 133751](https://github.com/user-attachments/assets/69e74d21-c8d8-4046-8695-fcfce15bcaea)
+- ![Ekran görüntüsü 2024-07-20 133751](https://github.com/user-attachments/assets/e11d57ea-42ca-4cab-a423-e48fdc71f98b)
+- ![Ekran görüntüsü 2024-07-20 133751](https://github.com/user-attachments/assets/e6911d2d-1c59-4dc9-a01c-6f4c5820817b)
+- 
+
+
+
+
+
+
+
 - **Product Backlog URL:** https://trello.com/b/TqOzpy5O/u-70-sprint2
 - **Sprint Değerlendirmesi:**
 - Oyunun ışık karakter özelliğine yoğunlaşma kararı alındı.
