@@ -236,8 +236,10 @@
 
  <details>
     <summary><h3>Sprint 2 Screenshots</h3></summary>   
-   ![Ekran görüntüsü 2024-07-20 174902](https://github.com/user-attachments/assets/f65bbf48-7e46-4e58-ad5a-233b3326c865)
-   ![Ekran görüntüsü 2024-07-20 174914](https://github.com/user-attachments/assets/fcf4b7e8-5ec1-4431-a720-2bf5bb7f642c)
+   
+![Ekran görüntüsü 2024-07-20 174902](https://github.com/user-attachments/assets/f65bbf48-7e46-4e58-ad5a-233b3326c865)
+   
+![Ekran görüntüsü 2024-07-20 174914](https://github.com/user-attachments/assets/fcf4b7e8-5ec1-4431-a720-2bf5bb7f642c)
 
    
 
