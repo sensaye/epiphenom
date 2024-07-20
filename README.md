@@ -234,9 +234,14 @@
     <summary><h3>Sprint 1 Screenshots</h3></summary>    
  
  - **Tahmin edilen tamamlanacak puan**: 80 points
-- **Puanlama mantığı**: `(250 puan tamamlanacak.)` İlk sprint için belirlenmiş puan 80'dir.
+- **Puanlama mantığı**: `(250 puan tamamlanacak.)` İkinci sprint için belirlenmiş puan 80'dir.
 - **Daily Scrum Screenshots**:
 - **Product Backlog URL:** https://trello.com/b/TqOzpy5O/u-70-sprint2
 - **Sprint Değerlendirmesi:**
+- Oyunun ışık karakter özelliğine yoğunlaşma kararı alındı.
+  
+- Işık toplama mekanikleri tamamlandı.
+  
+- level dizayn üstünde yoğunlaşıldı.
 - **Sprint Değerlendirme Katılımcıları:** `Hatice AKGÜL`, `Abdullah Bilal Tekeoğlu`, `Berkan Karademir `, `Muhammed Mustafa Temel `, `Deniz Kaya`
 - **Sprint Retrospective:**
