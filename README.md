@@ -229,6 +229,7 @@
    
 <details>
     <summary><h3>Sprint 2 - Sprint Board Update</h3></summary>
+  
     ![image](https://github.com/user-attachments/assets/3404bc22-9a1c-4f3f-9380-0ec2cb002589)
 
 
