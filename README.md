@@ -224,8 +224,12 @@
 
   - Takım üyelerinin gelecek sprintlerde daha aktif olması kararı alındı.
 
+
+
+
  <details>
     <summary><h1>Sprint 2</h1></summary>
+
    
 <details>
     <summary><h3>Sprint 2 - Sprint Board Update</h3></summary>
