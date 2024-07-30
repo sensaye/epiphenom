@@ -310,3 +310,11 @@
 - Takım üyelerinin daha aktif olmasına ve daha yoğun çalışma yapılmasına karar verildi.
 
 
+
+
+<details>
+    <summary><h1>Sprint 3</h1></summary>
+
+   
+<details>
+    <summary><h3>Sprint 3 - Sprint Board Update</h3></summary>
