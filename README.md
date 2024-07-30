@@ -227,7 +227,9 @@
 
 
 
- <details>
+  ![sprints](bootcampFiles/general/headers/sprints.png)
+
+  <details>
     <summary><h1>Sprint 2</h1></summary>
 
    
@@ -311,8 +313,9 @@
 
 
 
+ ![sprints](bootcampFiles/general/headers/sprints.png)
 
-<details>
+  <details>
     <summary><h1>Sprint 3</h1></summary>
 
    
