@@ -321,3 +321,57 @@
    
 <details>
     <summary><h3>Sprint 3 - Sprint Board Update</h3></summary>
+
+<details>
+    <summary><h3>Sprint 3 Screenshots</h3></summary>   
+   
+
+
+   
+
+ 
+ - **Tahmin edilen tamamlanacak puan**: 90 points
+- **Puanlama mantığı**: `(250 puan tamamlanacak.)` Üçüncü sprint için belirlenmiş puan 90'dir.
+- **Daily Scrum Screenshots**:
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- **Product Backlog URL:** https://trello.com/b/KKNFVspN/u-70-sprint3
+- **Sprint Değerlendirmesi:**
+- Gölge Karaktere verilecek görev kararlaştırıldı.
+  
+- Işık karakteri güncelleme kararı alındı.
+  
+- level dizayn üstünde yoğunlaşıldı.
+- **Sprint Değerlendirme Katılımcıları:** `Hatice AKGÜL`, `Abdullah Bilal Tekeoğlu`, `Berkan Karademir `, `Muhammed Mustafa Temel `, `Deniz Kaya`
+- **Sprint Retrospective:**
+- Map tasarımındaki ve oyunun mantığındaki eksikliklerin giderilmesi kararı alındı.
+- Gölge karaktere ağırlık verme kararına varıldı.
+- Takım üyelerinin daha aktif olmasına ve daha yoğun çalışma yapılmasına karar verildi.
+    
