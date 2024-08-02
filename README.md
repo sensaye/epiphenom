@@ -321,6 +321,8 @@
    
 <details>
     <summary><h3>Sprint 3 - Sprint Board Update</h3></summary>
+  -![Ekran görüntüsü 2024-08-02 234859](https://github.com/user-attachments/assets/835a8fa6-827f-465e-b376-219c2c9808a4)
+
 
 <details>
     <summary><h3>Sprint 3 Screenshots</h3></summary>   
