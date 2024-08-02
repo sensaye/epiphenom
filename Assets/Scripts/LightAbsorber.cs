@@ -60,7 +60,10 @@ public class LightAbsorber : MonoBehaviour
         {
             Debug.Log("Animator found, setting trigger.");
             animator.SetTrigger("absorb"); // Trigger ismini kontrol edin
-        }
+            Debug.Log("Tetikleyici ayarlandý: absorb");
+        
+
+    }
         else
         {
             Debug.LogWarning("No Animator component found on light source.");

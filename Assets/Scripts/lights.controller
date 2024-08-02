@@ -64,6 +64,12 @@ AnimatorStateTransition:
   - m_ConditionMode: 1
     m_ConditionEvent: absorb
     m_EventTreshold: 0
+  - m_ConditionMode: 1
+    m_ConditionEvent: absorb
+    m_EventTreshold: 0
+  - m_ConditionMode: 1
+    m_ConditionEvent: absorb
+    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 3401774823053491521}
   m_Solo: 0
