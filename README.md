@@ -24,7 +24,7 @@
     <tr>
       <td><img src="bootcampFiles/general/squarepics/bilal.png" width="50" height="50" /></td>
       <td>Abdullah Bilal Tekeoğlu</td>
-      <td>Scrum Master</td>
+      <td>Developer/Designer</td>
       <td>
         <a href="https://github.com/sensaye" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
         <a href="https://www.linkedin.com/in/abdullah-bilal-tekeo%C4%9Flu-964128199/" target="_blank" ><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
@@ -34,7 +34,7 @@
     <tr>
       <td><img src="bootcampFiles/general/squarepics/arda.png" width="50" height="50" /></td>
       <td>Berkan Karademir</td>
-      <td>Product Owner</td>
+      <td>Product Owner/Developer</td>
       <td>
         <a href="https://github.com/" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
         <a href="https://www.linkedin.com/" target="_blank"><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
@@ -44,7 +44,7 @@
     <tr>
       <td><img src="bootcampFiles/general/squarepics/hazal.png" width="50" height="50" /></td>
       <td>Deniz Kaya</td>
-      <td>Developer</td>
+      <td>Developer/Designer</td>
       <td>
         <a href="https://github.com/" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
         <a href="https://www.linkedin.com/" target="_blank"><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
@@ -53,7 +53,7 @@
        <tr>
       <td><img src="bootcampFiles/general/squarepics/hatice.png" width="50" height="50" /></td>
       <td>Hatice Akgül</td>
-      <td>Developer</td>
+      <td>Scrum Master/Developer</td>
       <td>
         <a href="https://github.com/haticeeakgull" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
         <a href="https://www.linkedin.com/in/haticeeakgüll/" target="_blank" ><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
