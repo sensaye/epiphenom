@@ -397,14 +397,16 @@
 
 - **Product Backlog URL:** https://trello.com/b/KKNFVspN/u-70-sprint3
 - **Sprint Değerlendirmesi:**
-- Gölge Karaktere verilecek görev kararlaştırıldı.
+- Oyunun iki level olması kararlaştırıldı.
   
 - Işık karakteri güncelleme kararı alındı.
   
 - level dizayn üstünde yoğunlaşıldı.
+
+- 
 - **Sprint Değerlendirme Katılımcıları:** `Hatice AKGÜL`, `Abdullah Bilal Tekeoğlu`, `Berkan Karademir `, `Muhammed Mustafa Temel `, `Deniz Kaya`
 - **Sprint Retrospective:**
 - Map tasarımındaki ve oyunun mantığındaki eksikliklerin giderilmesi kararı alındı.
-- Gölge karaktere ağırlık verme kararına varıldı.
-- Takım üyelerinin daha aktif olmasına ve daha yoğun çalışma yapılmasına karar verildi.
+- Oyun tamamlandı.
+
     
