@@ -333,6 +333,36 @@
  - **Tahmin edilen tamamlanacak puan**: 90 points
 - **Puanlama mantığı**: `(250 puan tamamlanacak.)` Üçüncü sprint için belirlenmiş puan 90'dir.
 - **Daily Scrum Screenshots**:
+- ![Ekran görüntüsü 2024-07-21 120432](https://github.com/user-attachments/assets/772ba458-f180-4314-a48a-e4a03c5bcbbf)
+- ![Ekran görüntüsü 2024-08-02 163823](https://github.com/user-attachments/assets/4752a495-fb64-48d9-ad7d-8c0b4b6680e9)
+- ![Ekran görüntüsü 2024-08-02 163922](https://github.com/user-attachments/assets/f726f6a7-ad7a-462a-a086-78f46a2879e8)
+- ![Ekran görüntüsü 2024-08-02 164000](https://github.com/user-attachments/assets/d45324ad-e09c-46e0-a725-c283dcdff058)
+- ![Ekran görüntüsü 2024-08-02 164032](https://github.com/user-attachments/assets/6b422413-1e43-4c7e-be78-031662f2229a)
+- ![Ekran görüntüsü 2024-08-02 164051](https://github.com/user-attachments/assets/628886fa-126c-47c8-b9d9-29fe151c981d)
+- ![Ekran görüntüsü 2024-08-02 164151](https://github.com/user-attachments/assets/26e99543-f5cc-4343-9d6c-1923acba4d80)
+- ![Ekran görüntüsü 2024-08-02 164248](https://github.com/user-attachments/assets/34d823cb-52ec-4fa2-92c6-6d0c2311f5d3)
+- ![Ekran görüntüsü 2024-08-02 164309](https://github.com/user-attachments/assets/0f6235ec-550e-4c93-812a-d5ad99562b91)
+- ![Ekran görüntüsü 2024-08-02 164438](https://github.com/user-attachments/assets/1139da8f-6850-40e8-a0e7-b9cb0662329c)
+- ![Ekran görüntüsü 2024-08-02 164509](https://github.com/user-attachments/assets/1d2d2f7f-77b6-4d6b-afe6-2b5a8a137f44)
+- ![Ekran görüntüsü 2024-08-02 164550](https://github.com/user-attachments/assets/075fbe58-4946-41e2-8e9b-b435ba3d2e95)
+- ![Ekran görüntüsü 2024-08-02 164709](https://github.com/user-attachments/assets/d88fca2f-16fe-42b1-b983-079886818861)
+- ![Ekran görüntüsü 2024-08-02 164724](https://github.com/user-attachments/assets/6fbf7cb0-b0b1-4110-8ae9-d578e4c55781)
+- ![Ekran görüntüsü 2024-08-02 164748](https://github.com/user-attachments/assets/86105adb-f818-4d69-a322-1804829628ec)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
