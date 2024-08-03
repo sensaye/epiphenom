@@ -1,7 +1,7 @@
   <html>
   <body>
 
-  ![zaten](bootcampFiles/general/headers/epiphenom2.png)
+ 
   
    # **Takım İsmi**
    ### **`U-70`**
@@ -327,8 +327,14 @@
 
 <details>
     <summary><h3>Sprint 3 Screenshots</h3></summary>   
-   
 
+![Ekran görüntüsü 2024-08-03 203024](https://github.com/user-attachments/assets/cbf20cec-7ab1-46b7-849a-dcb97e3dad1c)
+![Ekran görüntüsü 2024-08-03 203036](https://github.com/user-attachments/assets/59f566fb-f0af-4842-810a-c364b3cac04f)
+![Ekran görüntüsü 2024-08-03 203058](https://github.com/user-attachments/assets/18334b3d-635e-4eb5-ab14-f09bb1365c10)
+![Ekran görüntüsü 2024-08-03 203141](https://github.com/user-attachments/assets/30b6b36c-d392-4f7c-ae6a-2f1fa0417a25)
+![Ekran görüntüsü 2024-08-03 203220](https://github.com/user-attachments/assets/de59b01c-da6d-4408-bf73-bf5b9854e820)
+![Ekran görüntüsü 2024-08-03 203254](https://github.com/user-attachments/assets/f7348bbe-2686-4b2b-a77d-a839dde2b019)
+![Ekran görüntüsü 2024-08-03 203316](https://github.com/user-attachments/assets/b95a8b96-b552-4c6f-9215-8a7191154522)
 
    
 
